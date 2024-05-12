@@ -28,12 +28,14 @@ for i in f1:
 word=i.split()
 num += len(word)
 print("The number of words are in the file is ",num)
-![image](https://github.com/Tharun0707/Word-Count/assets/145548496/8991d7ad-fa02-45be-9cca-13c4ea18741c)
+
 
 
 
 ### OUTPUT:
-![image](https://github.com/Tharun0707/Word-Count/assets/145548496/2cc90954-7925-4a81-b648-749db05b3f98)
+![image](https://github.com/Tharun0707/Word-Count/assets/145548496/631c3b2b-8988-476c-bc8b-33594057cd2b)
+![image](https://github.com/Tharun0707/Word-Count/assets/145548496/cf7be036-9cd0-448e-a88d-02eb06612181)
+
 
 
 
